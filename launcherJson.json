@@ -1,6 +1,6 @@
 {
-    "isEnabled": true,
+    "isEnabled": false,
     "url1": "https://your-ad-url-1.com",
     "url2": "https://your-ad-url-2.com",
-    "timeGap": 60
+    "timeGap": 6
   }
